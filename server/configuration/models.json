@@ -1,0 +1,133 @@
+[
+  {
+    "Model": "TPB",
+    "QuestionnaireId": "EnergyFlexibility",
+    "Sections": {
+      "BehaviouralBeliefs": [
+        {
+          "QuestionId": "TPB_BB_1",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "TPB_BB_2",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "TPB_BB_reversed_3",
+          "Scale": "Likert5",
+          "Weight": -1.0
+        }
+      ],
+      "NormativeBeliefs": [
+        {
+          "QuestionId": "TPB_NB_4",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "TPB_NB_reversed_5",
+          "Scale": "Likert5",
+          "Weight": -1.0
+        },
+        {
+          "QuestionId": "TPB_NB_6",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        }
+      ],
+      "ControlBeliefs": [
+        {
+          "QuestionId": "TPB_CB_7",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "TPB_CB_reversed_8",
+          "Scale": "Likert5",
+          "Weight": -1.0
+        },
+        {
+          "QuestionId": "TPB_CB_9",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        }
+      ]
+    }
+  },
+  {
+    "Model": "SDT",
+    "QuestionnaireId": "EnergyFlexibility",
+    "Sections": {
+      "Intrinsic": [
+        {
+          "QuestionId": "SDT_Intrinsic_1",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "SDT_Intrinsic_4",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "SDT_Intrinsic_11",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        }
+      ],
+      "Identified": [
+        {
+          "QuestionId": "SDT_Identified_2",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "SDT_Identified_8",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "SDT_Identified_10",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        }
+      ],
+      "Introjected": [
+        {
+          "QuestionId": "SDT_Introjected_3",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "SDT_Introjected_6",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "SDT_Introjected_9",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        }
+      ],
+      "External": [
+        {
+          "QuestionId": "SDT_External_5",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "SDT_External_7",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        },
+        {
+          "QuestionId": "SDT_External_12",
+          "Scale": "Likert5",
+          "Weight": 1.0
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,595 @@
+{
+	"QuestionnaireId": "EnergyFlexibility",
+	"Questionnaire":
+	[
+		{
+			"QuestionId": "TPB_Introduction",
+			"QuestionText": "In the following questionnaire we will ask you about your behavioural energy flexibility.\nEnergy Flexibility is understood as a response to use energy when a lot of energy is available by turning on your appliances (washing machine/dishwasher or charge your electric car) and avoid using energy when little energy is available.\nFirst, we will ask you about your intentions towards energy flexibility behaviours, i.e., how much you would be willing to change or adapt your behaviour according to the current availability or non-availability of energy.\n ",
+			"Answers": [
+				{
+					"AnswerId": "Next",
+					"AnswerText": "Continue"
+				}
+			],
+			"Optional": true
+		},
+		{
+			"QuestionId": "TPB_BB_1",
+			"QuestionText": "It is important to me to adjust my behaviour according to energy availability to support a more environmentally friendly life-style.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "TPB_BB_2",
+			"QuestionText": "Using energy at the right time is reasonable.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "TPB_BB_reversed_3",
+			"QuestionText": "Adjusting my behaviour according to energy availability is useless and does not make sense for me.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "TPB_NB_4",
+			"QuestionText": "Most of my friends would adjust their behaviour according to the availability of energy",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},		
+		{
+			"QuestionId": "TPB_NB_reversed_5",
+			"QuestionText": "People who are important to me would find acting according to energy availability as a waste of time.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},		
+		{
+			"QuestionId": "TPB_NB_6",
+			"QuestionText": "People around me would expect from me to behave more sustainable by changing my behaviour and follow the availability of energy.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},		
+		{
+			"QuestionId": "TPB_CB_7",
+			"QuestionText": "It sounds easy to use energy at the right time.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},		
+		{
+			"QuestionId": "TPB_CB_reversed_8",
+			"QuestionText": "It sounds difficult to change my behaviour according to energy availability.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},		
+		{
+			"QuestionId": "TPB_CB_9",
+			"QuestionText": "To follow advice when to use energy is simple.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Introduction",
+			"QuestionText": "Now we will ask you about your motivation towards energy flexibility, i.e., how much you would be willing to change or adapt your behaviour according to the current availability or non-availability of energy.\nThere are various reasons why people would try to adjust their behaviour according to the availability of energy (please indicate how much you Disagree with the following statements):",
+			"Answers": [
+				{
+					"AnswerId": "Next",
+					"AnswerText": "Continue"
+				}
+			],
+			"Optional": true
+		},
+		{
+			"QuestionId": "SDT_Intrinsic_1",
+			"QuestionText": "Because I simply enjoy supporting the environment, even if that means that I have to adapt my behaviour.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Identified_2",
+			"QuestionText": "Because adjusting my behaviour in a way that it matches energy availability is good for the environment.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Introjected_3",
+			"QuestionText": "Because I would feel bad about myself if I didn’t adjust my behaviour depending on if energy is available or not.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Intrinsic_4",
+			"QuestionText": "Because it is fun and interesting to figure out or respond to when the best time is to use or avoid using energy.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_External_5",
+			"QuestionText": "Because others like me better when I behave environmentally friendly.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Introjected_6",
+			"QuestionText": "Because I would be afraid of personal consequences if I am not adjusting my behaviour accordingly to the availability of energy.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_External_7",
+			"QuestionText": "Because it helps my image in the neighbourhood and community to show energy flexibility.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Identified_8",
+			"QuestionText": "Because it is personally important to me to change my energy consumption according to energy availability.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Introjected_9",
+			"QuestionText": "Because I feel pressured to change my energy consumption according to energy availability.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Identified_10",
+			"QuestionText": "Because I have a strong value for sustainability and the environment.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_Intrinsic_11",
+			"QuestionText": "For the pleasure of discovering and mastering new things I try to change my behaviour to match the availability of energy.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		},
+		{
+			"QuestionId": "SDT_External_12",
+			"QuestionText": "Because I want others to see me as someone, who cares for the environment.",
+			"Answers": [
+				{
+					"AnswerId": "+2",
+					"AnswerText": "Strongly Agree"
+				},
+				{
+					"AnswerId": "+1",
+					"AnswerText": "Agree"
+				},
+				{
+					"AnswerId": "0",
+					"AnswerText": "Neutral"
+				},
+				{
+					"AnswerId": "-1",
+					"AnswerText": "Disagree"
+				},
+				{
+					"AnswerId": "-2",
+					"AnswerText": "Strongly Disagree"
+				}
+			],
+			"Optional": false
+		}
+	]
+}

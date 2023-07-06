@@ -1,0 +1,25 @@
+{
+  "ImportanceFactorBI": 2.0,
+  "ImportanceFactorRAI": 1.0,
+  "ParameterPriorVariance": 0.1,
+  "CalibrationLearningRate": 0.01,
+  "CalibrationIterations": 100,
+  "ActivationFunctionGamma": 2.0,
+  "AuthenticationTokens": [
+    {
+      "User": "admin",
+      "Access": ["admin", "read", "write"],
+      "Token": "94dd1871-0d82-4bb3-b283-f7d99e0bce47"
+    },
+    {
+      "User": "writer",
+      "Access": ["read", "write"],
+      "Token": "e6c3c81b-3cdd-4345-bd5b-9747eb0f9173"
+    },
+    {
+      "User": "reader",
+      "Access": ["read"],
+      "Token": "5446c2c8-69c7-4a6e-9d98-8a58d6092002"
+    }
+  ]
+}

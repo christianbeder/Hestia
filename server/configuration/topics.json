@@ -1,0 +1,13 @@
+[
+  {
+    "Topic": "Flexibility",
+    "Questionnaires": [
+      {
+        "Language": "English",
+        "File": "questionnaire_flexibility_english.json"
+      }
+    ],
+    "Actions": ["Laundry", "Dishwasher", "Cleaning", "Cooking", "Heating", "Cooling", "Hygiene"],
+    "DefaultTopic": true
+  }
+]
